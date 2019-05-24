@@ -5,7 +5,7 @@
   "main": "./BLEKit.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xuyazhong/react-native-blekit.git"
+    "url": "https://github.com/xuyazhong/RNBleKit.git"
   },
   "dependencies": {
     "convert-string": "^0.1.0",
